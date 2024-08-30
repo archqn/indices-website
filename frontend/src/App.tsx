@@ -6,7 +6,7 @@ const App: React.FC = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>AE Index Plot (Test)</h1>
+        <h1 className="text-blue-600" >AE Index Plot (Test)</h1>
       </header>
       <main>
         <TestPlot />
